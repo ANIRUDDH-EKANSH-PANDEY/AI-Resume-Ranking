@@ -6,7 +6,7 @@ AI Resume Screening & Candidate Ranking System
 
 🖥 Live Demo
 
-📌 Deployment Link (Replace # with the actual deployment link if hosted)
+📌 [Deployment Link](https://ai-resume-ranking-iap4k7eqjefkxdl4zvkzsw.streamlit.app/)
 
 ---
 
@@ -60,7 +60,7 @@ pandas (Data Processing)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/AI-Resume-Ranking.git
+git clone https://github.com/ANIRUDDH-EKANSH-PANDEY/AI-Resume-Ranking.git
 cd AI-Resume-Ranking
 
 2️⃣ Set Up Virtual Environment (Optional but Recommended)
